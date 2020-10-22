@@ -1,2 +1,2 @@
 # Analysis-of-attacks-on-authentication-process-based-on-biometric-elements
-This study was conducted at the Faculty of Electrical and Computer Engineering as a Bachelor thesis.
+The purpose of this topic is to analyze attacks on the authentication process based on biometric elements. As the authentication process is increasingly evolving by the advancement of Machine Learning techniques, the same techniques have been used to train and test the model which can classify and identify the faces of different people and which will be used as a target for carrying out the attack . The case study analyzes the implementation of the FGSM method and the level of performance reduction the model will have by applying this method in attacking. 
