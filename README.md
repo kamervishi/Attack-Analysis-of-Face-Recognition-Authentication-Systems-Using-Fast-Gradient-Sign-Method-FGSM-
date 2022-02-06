@@ -10,5 +10,5 @@ Arbena Musa, Kamer Vishi & Blerim Rexha (2021) Attack Analysis of Face Recogniti
 
 
 
-
-Note: This implementation derived initially from a bachelor thesis submitted at the Faculty of Electrical and Computer Engineering at the University of Prishtina "Hasan Prishtina" by Arbena Musa.
+<hr>
+**Note:** This implementation derived initially from a bachelor thesis submitted at the Faculty of Electrical and Computer Engineering at the University of Prishtina "Hasan Prishtina" by Arbena Musa.
