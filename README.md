@@ -3,7 +3,8 @@ This study was conducted in collaboration with the University of Prishtina (Koso
 
 The journal article is available at the following link: https://doi.org/10.1080/08839514.2021.1978149
 
-## To cite this article:
+
+### To cite this article:
 Arbena Musa, Kamer Vishi & Blerim Rexha (2021) Attack Analysis of Face Recognition Authentication Systems Using Fast Gradient Sign Method, Applied Artificial Intelligence, DOI: 10.1080/08839514.2021.1978149
 
 
